@@ -35,10 +35,9 @@ The file you provided is called `setup.py` and it's a crucial part of distributi
     * `packages`: This uses `setuptools.find_packages` to automatically find all importable packages within the "src" directory.
 
 In summary, this `setup.py` file provides all the necessary information for users to install and use your Python package using tools like `pip`. It creates a structured distribution that includes your code, documentation, and other relevant details.
-
+----------------------------------------------------------------------
 # requirement file
 
-I'd be glad to explain the need for the listed requirements in your project, considering the information you've provided and insights from potential project goals:
 
 **Machine Learning Dependencies:**
 
