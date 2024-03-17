@@ -121,6 +121,12 @@ MLFLOW_TRACKING_URI=https://dagshub.com/manjappa.hmds/Mlflow-Experiment-Demo.mlf
 MLFLOW_TRACKING_USERNAME=manjappa.hmds \
 MLFLOW_TRACKING_PASSWORD=0f4bc0631c5c5c86e509e81787b3d813dae2cb4b \
 python script.py
+
+
+MLFLOW_TRACKING_URI=https://dagshub.com/manjappa.hmds/Chest-Disease-Classification-from-Chest-CT-scan-images.mlflow \
+MLFLOW_TRACKING_USERNAME=manjappa.hmds \
+MLFLOW_TRACKING_PASSWORD=0f4bc0631c5c5c86e509e81787b3d813dae2cb4b \
+python script.py
 ,,,
 
 ### RUN from bash terminal
@@ -131,5 +137,14 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/manjappa.hmds/Mlflow-Experiment-D
 export MLFLOW_TRACKING_USERNAME=manjappa.hmds
 
 export MLFLOW_TRACKING_PASSWORD=0f4bc0631c5c5c86e509e81787b3d813dae2cb4b
+
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/manjappa.hmds/Chest-Disease-Classification-from-Chest-CT-scan-images.mlflow
+
+export MLFLOW_TRACKING_USERNAME=manjappa.hmds
+
+export MLFLOW_TRACKING_PASSWORD=0f4bc0631c5c5c86e509e81787b3d813dae2cb4b
+
+
 
 ```
