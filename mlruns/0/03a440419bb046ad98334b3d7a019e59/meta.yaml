@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Ineuron_projects/Chest-Disease-Classification-from-Chest-CT-scan-images/mlruns/0/03a440419bb046ad98334b3d7a019e59/artifacts
+end_time: 1710755760974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03a440419bb046ad98334b3d7a019e59
+run_name: incongruous-bat-392
+run_uuid: 03a440419bb046ad98334b3d7a019e59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710755755676
+status: 3
+tags: []
+user_id: Manjappahmds

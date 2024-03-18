@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Ineuron_projects/Chest-Disease-Classification-from-Chest-CT-scan-images/mlruns/0/d1c2794669aa42f6b37fbc29d0debda3/artifacts
+end_time: 1710742225070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1c2794669aa42f6b37fbc29d0debda3
+run_name: treasured-fowl-751
+run_uuid: d1c2794669aa42f6b37fbc29d0debda3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710742219105
+status: 3
+tags: []
+user_id: Manjappahmds
