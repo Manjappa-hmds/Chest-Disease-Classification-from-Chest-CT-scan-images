@@ -146,3 +146,8 @@ export MLFLOW_TRACKING_USERNAME=manjappa.hmds
 export MLFLOW_TRACKING_PASSWORD=0f4bc0631c5c5c86e509e81787b3d813dae2cb4b
 
 ```
+
+### DVC command
+1. dvc init
+2. dvc repro
+3. dvc dag
