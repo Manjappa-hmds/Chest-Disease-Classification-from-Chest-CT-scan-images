@@ -46,7 +46,7 @@ def predictRoute():
     result = clApp.classifier.predict()
     return jsonify(result)
 
-# app run
+# app running
 
 if __name__ == "__main__":
     clApp = ClientApp()
